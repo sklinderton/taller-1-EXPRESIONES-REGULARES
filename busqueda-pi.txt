@@ -1,0 +1,11 @@
+1. Patrón: '1415' -> Ocurrencias: 113
+2. Patrón: '1415[13579]' -> Ocurrencias: 63
+3. Patrón: '[02468]{3}' -> Ocurrencias: 89277
+4. Patrón: '[02468]{3}9' -> Ocurrencias: 15547
+5. Patrón: '[02468]{3}[13579]' -> Ocurrencias: 78097
+6. Patrón: '[02468]{3}[09]' -> Ocurrencias: 26482
+7. Patrón: '[02468]{2}(?:[13579]|[13579]{3})?' -> Ocurrencias: 207897
+8. Patrón: '[13579]{2}0' -> Ocurrencias: 31250
+9. Patrón: '[13579][02468]{2,}' -> Ocurrencias: 155982
+10. Patrón: '11[13579]' -> Ocurrencias: 5696
+11. Patrón: '11[13579][02468]' -> Ocurrencias: 3062
